@@ -8,17 +8,9 @@ Tablet: 768 até 992px
 Desktop: 992px até 1200px
 TV: acima de 1200px
 */
-@media print {
-    
-}
 
 /* O style.css é feito para Mobile
 @media screen and (max-width: 600px){
-
-}
-
-@media screen and (max-width: 600px) and (max-width: 768px) {
-    
 }
 */
 
